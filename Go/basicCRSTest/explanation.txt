@@ -1,0 +1,4 @@
+This is intended to copy the current structure of Rendiri bc like i might use Go for file routing
+This is lowk too complicated for first vers but idc
+oh also i need teh dotenv in like the node.js entry file, so thats like the main backend which im not gonna do rn so likeeeeeeeee
+also ill def like recode this in the actual, js proof of concept rnnnnn
